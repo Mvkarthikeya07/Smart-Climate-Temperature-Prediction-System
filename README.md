@@ -159,6 +159,44 @@ Joblib
 
 HTML & CSS
 
+🏢 Industry Exposure & Internship Experience
+
+Machine Learning Intern
+Organization: Skillfied Mentor (Edgenius Skillfied Mentor Pvt. Ltd)
+Duration: December 2025 – January 2026 (1 Month)
+
+This project reflects the practical skills and professional mindset developed during my Machine Learning internship at Skillfied Mentor, where I gained hands-on industry exposure to real-world ML workflows.
+
+🔍 Internship Relevance to This Project
+
+Applied supervised learning (regression) concepts to real-world datasets
+
+Worked with end-to-end ML pipelines, including:
+
+Data preprocessing and feature handling
+
+Model training and evaluation
+
+Practical ML implementation using Python and Scikit-learn
+
+Strengthened understanding of:
+
+Clean project structuring
+
+Separation of training and inference logic
+
+Deployment-oriented thinking using Flask
+
+Developed professional discipline in:
+
+Writing reproducible ML code
+
+Documentation and version control
+
+Translating ML models into usable applications
+
+This internship played a key role in shaping the design philosophy of this project, emphasizing real-world applicability, clean architecture, and industry-aligned Machine Learning practices.
+
 📈 Future Enhancements
 
 Feature scaling and normalization
