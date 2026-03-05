@@ -51,7 +51,7 @@ temperature — Target variable (°C)
 
 ⚠️ Note:
 The dataset is stored in a compressed format to comply with GitHub file size limitations while maintaining full project reproducibility.
-
+```
 🏗 Project Structure
 TEMPERATURE_PREDICTION/
 │
@@ -69,7 +69,7 @@ TEMPERATURE_PREDICTION/
 ├── train_model.py               # Model training script
 ├── requirements.txt             # Project dependencies
 └── README.md                    # Project documentation
-
+```
 🖼 Application Screenshots
 🔹 Home Page – User Input Interface
 
